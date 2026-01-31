@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Hello Everyone!"
-echo Hiya World!
+echo Hiya Everyone. Have a nice day!
